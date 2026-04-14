@@ -62,7 +62,6 @@ I am particularly interested in **real-time data**, **high-scale backend systems
 **Performance Tuning** • **Security** • **Scalability** • **Technical Leadership**
 
 </div>
----
 
 ## Tech Stack
 
