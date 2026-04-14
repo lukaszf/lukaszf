@@ -108,7 +108,7 @@ Hi there <img src="https://raw.githubusercontent.com/lukaszf/lukaszf/main/img/hi
 <h2>What I Actually Do</h2>
 
 - Design and build Kafka-based data platforms (on-prem & cloud)
-- Create low-latency streaming pipelines (Kafka → Snowflake → downstream systems)
+- Create low-latency streaming pipelines
 - Define platform standards (topics, schemas, security, IaC)
 - Optimize performance (throughput, latency, partitioning, connectors)
 - Troubleshoot complex production issues in distributed systems
