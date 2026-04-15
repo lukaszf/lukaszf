@@ -8,8 +8,8 @@
 
 ### Senior Software Engineer · Consultant · Tech Lead
 ### Cracow, Poland
-
-&nbsp;&nbsp;|&nbsp;&nbsp; 🖂 **lfedorowiat@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lfedorowiat/)
+ 
+🖂 **lfedorowiat@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lfedorowiat/)
 
 > *Turning complex problems into simple solutions.*
 
