@@ -9,7 +9,7 @@
 ### Senior Software Engineer · Consultant · Tech Lead
 ### Cracow, Poland
 
-📱 **(+48) 691 286 480** &nbsp;&nbsp;|&nbsp;&nbsp; 🖂 **lfedorowiat@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lfedorowiat/)
+&nbsp;&nbsp;|&nbsp;&nbsp; 🖂 **lfedorowiat@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lfedorowiat/)
 
 > *Turning complex problems into simple solutions.*
 
